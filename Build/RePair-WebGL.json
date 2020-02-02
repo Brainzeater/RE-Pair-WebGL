@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JAM2020",
+"productVersion": "0.1",
+"dataUrl": "RePair-WebGL.data.unityweb",
+"wasmCodeUrl": "RePair-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "RePair-WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
